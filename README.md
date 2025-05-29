@@ -131,35 +131,30 @@ View All Reservations, and Generate Reports — as seen in the UI.
 ### 🔹 Add Reservation - 
 ![Add New Reservation](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Reservation_2.png)
 
-### For More Related Images :- [!! Add_Reservation !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Reservation_1.png)[_!! Add_Reservation !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Reservation_2.png)
+### For More Related Images :- [!! Add_Reservation 1 !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Reservation_1.png)[_!! Add_Reservation 2 !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Reservation_2.png)
 
 ### 🔹 Update Reservation -
 ![Update Reservation](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_3.png)
 
-### For More Related Images :- [!! Update_1 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_1.png)[!! Update_2 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_2.png)[!! Update_3 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_3.png)[!! Update_1 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_4.png)
+### For More Related Images :- [!! Update_1 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_1.png)[!! Update_2 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_2.png)[!! Update_3 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_3.png)[!! Update_4 !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_4.png)
 
+### 🔹 Cancel Reservation -
+![Cancel Reservation](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Cancel_3.png)
 
+### For More Related Images :- [!! Cancel_1 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Cancel_1.png)[!! Cancel_2 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Cancel_2.png)[!! Cancel_3 !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Cancel_3.png)
 
+### 🔹 View All Reservations -
+![View All Reservations](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/All_Reservations_2.png)
 
+### For More Related Images :- [!! All_Reservations_1 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/All_Reservations_1.png)[!! All_Reservations_2 !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/All_Reservations_2.png)
 
-### 🔹 All Reservations
-![All Reservations 1](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/All_Reservations_1.png)
-![All Reservations 2](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/All_Reservations_2.png)
+### 🔹 Generate Reports -
+![Reservations in a Date Range](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_4.png)
+![Rooms Booked Most Frequently](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_5.png)
+![Total Revenue Over a Period](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_7.png)
+![Reservations By Customer Name](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_9.png)
 
-### 🔹 Cancel Reservation
-![Cancel 1](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Cancel_1.png)
-![Cancel 2](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Cancel_2.png)
-![Cancel 3](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Cancel_3.png)
-
-### 🔹 Reports
-![Report 1](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_1.png)
-![Report 2](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_2.png)
-![Report 3](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_3.png)
-![Report 4](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_4.png)
-![Report 5](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_5.png)
-![Report 6](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_6.png)
-![Report 7](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_7.png)
-![Report 8](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_8.png)
+### For More Related Images :- [!! Report_1 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_1.png)[!! Report_2 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_2.png)[!! Report_3 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_3.png)[!! Report_4 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_4.png)[!! Report_5 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_5.png)[!! Report_6 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_6.png)[!! Report_7 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_7.png)[!! Report_8 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_8.png)[!! Report_9 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_9.png)
 
 
 
