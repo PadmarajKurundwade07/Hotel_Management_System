@@ -1,12 +1,13 @@
 # Hotel Management System
 
-**Name**: Padmaraj Kurundwade  
+**Name**: Padmaraj Kurundwade 
+
 **USN**: 4AL22CS097
+
 **Subject Name**: Advanced Java 
 
 ---
-## A comprehensive web application for managing hotel operations, including room bookings and customer records.
-## Built using JSP, Servlets, and MySQL, following the MVC architecture for clean code separation.
+## A comprehensive web application for managing hotel operations, including room bookings and customer records. Built using JSP, Servlets, and MySQL, following the MVC architecture for clean code separation.
 
 ## 🧰 Features :
 
