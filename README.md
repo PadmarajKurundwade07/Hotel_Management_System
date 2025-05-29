@@ -128,10 +128,19 @@ View All Reservations, and Generate Reports — as seen in the UI.
 ### 🔹 Front Page -
 ![Front Page](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Front_page.png)
 
-### 🔹 Add Reservations - 
-![Add New Reservations](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Reservation_1.png)
+### 🔹 Add Reservation - 
+![Add New Reservation](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Reservation_2.png)
 
-### For More Related Images:- [Enter_the_Data](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Reservation_2.png)
+### For More Related Images :- [!! Enter_the_Data !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Reservation_1.png)
+
+### 🔹 Update Reservation -
+![Update Reservation](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_3.png)
+
+### For More Related Images :- [!! Update_1 !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_1.png)[!! Update_2 !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_2.png)[!! Update_3 !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_3.png)[!! Update_1 !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Update_4.png)
+
+
+
+
 
 ### 🔹 All Reservations
 ![All Reservations 1](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/All_Reservations_1.png)
