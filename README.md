@@ -1,8 +1,8 @@
 # Hotel Management System
 
-**Subject Name**: Advanced Java    
 **Name**: Padmaraj Kurundwade  
 **USN**: 4AL22CS097 
+**Subject Name**: Advanced Java 
 
 ---
 A comprehensive web application for managing hotel operations, including room bookings and customer records.
@@ -165,125 +165,106 @@ View All Reservations, and Generate Reports — as seen in the UI.
 ### For More Related Images :- [!! Report_1 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_1.png)[!! Report_2 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_2.png)[!! Report_3 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_3.png)[!! Report_4 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_4.png)[!! Report_5 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_5.png)[!! Report_6 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_6.png)[!! Report_7 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_7.png)[!! Report_8 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_8.png)[!! Report_9 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_9.png)
 
 
+## 🎯 Usage Application :
+
+### 🏨 Add New Reservation :-
+
+1. Navigate to "Add New Reservation" from the homepage.
+2. Fill in the reservation form:
+   > Customer Name.
+   > Room Number.
+   > Check-in and Check-out Dates.
+   > Total Amount.
+3. Click "Add Reservation" to save the booking.
+
+### ✏️ Update Reservation :-
+
+1. Go to "Update Reservation".
+2. Search For The Reservation by Id.
+3. Edit Reservation Details:
+   > Customer Name.
+   > Room Number.
+   > Check-in and Check-out Dates.
+   > Total Amount.
+4. Click "Update Reservation" to apply the changes.
+
+### ❌ Cancel Reservation :-
+
+1. Open "Cancel Reservation" from the menu.
+2. Search for the reservation using Reservation ID.
+3. Confirm the cancellation by clicking "Confirm Cancellation".
+4. The reservation will be removed from the system.
+
+### 📋 View All Reservations :-
+
+1. Navigate to "View All Reservations".
+2. The system will display all active reservations.
+
+### 📊 Generate Reports :-
+
+1. Click on "Generate Reports" from the homepage.
+2. Choose the type of report:
+   > Reservations in a Date Range.
+   > Rooms Booked Most Frequently.
+   > Total Revenue Over a Period.
+   > Reservations By Customer Name.
+3. Click "Generate Report" to See the report.
+
+## 🧪 Testing the Application :
+
+## Test Cases to Verify :-
+
+1. Add Reservation:
+    > Add valid reservation details.
+    > Try adding overlapping bookings for the same room.
+    > Test form validation.
+
+2. Update Reservation:
+   > Update an existing reservation's check-in/check-out dates or room number.
+   > Attempt to update a non-existent reservation ID (should show error).
+   > Check if updates reflect correctly in the system.
+
+3. Cancel Reservation:
+   > Cancel a valid reservation by ID.
+   > Attempt to cancel a non-existent reservation (should fail gracefully).
+   > Confirm that canceled reservations are removed from the list.
+
+4. View All Reservations:
+   > Load and display all current reservations.
+   > Verify it.
+   > Check responsiveness of the view under high data load.
+
+5. Generate Reports:
+   > Generate reports for bookings made in a specific time period.
+   > Generate reports for bookings a Most Frequently rooms.
+   > Generate reports for Total Revenue Over a Period.
+   > Generate reports for Reservations By Customer Name.
+   > Validate accuracy of report data (total bookings, specific time period, etc.).
+
+## ✅ Project Highlights :
+
+This project demonstrates :-
+
+### 🧩 MVC Architecture :-
+Ensures a clear separation of concerns between the Model (business logic), View (UI), and Controller (request handling).
+
+### 🗃️ Database Integration :- 
+Full CRUD operations performed using MySQL, enabling persistent data storage for reservations and reports.
+
+### 🌐 Web Technologies :-
+Developed using JSP, Servlets, HTML, CSS, and JavaScript to create dynamic and interactive web pages.
+
+### ✅ Input Validation :-
+Implements both client-side (JavaScript) and server-side (Servlet) validations for data integrity and security.
+
+### 📊 Report Generation :-
+Dynamically generates booking reports for analysis and decision-making.
+
+### 🎨 Professional UI :- 
+Features a clean, responsive user interface styled with Bootstrap for enhanced usability and modern appearance.
 
 
 
-### 🏠 Home Page
-<img src="screenshots/Homepage.png" alt="Home Page" width="700"/>
-
-### ➕ Add Marks Page
-<img src="screenshots/add.png" alt="Add Marks Page" width="700"/>
-
-### 🔍 Search Student
-<img src="screenshots/search.png" alt="Search Student" width="700"/>
-
-### ❌ Delete Details
-<img src="screenshots/delete.png" alt="Search Student" width="700"/>
-
-### 🆕 Update Details
-<img src="screenshots/update.png" alt="Search Student" width="700"/>
-
-### 📋 Display Marks
-<img src="screenshots/display.png" alt="Display Marks" width="700"/>
 
 
-## 🎯 Usage Application
-
-### Adding Student Marks
-1. Navigate to "Add Marks" from the main menu
-2. Fill in all required fields:
-   - Student ID (unique identifier)
-   - Student Name (max 100 characters)
-   - Subject (select from dropdown)
-   - Marks (0-100)
-   - Exam Date (cannot be future date)
-3. Click "Add Student Mark"
-
-### Updating Student Marks
-1. Go to "Update Marks"
-2. Search for a student by ID
-3. Modify the displayed information
-4. Click "Update Student Mark"
-
-### Deleting Student Marks
-1. Go to "Delete Marks"
-2. Search for a student by ID
-3. Confirm deletion by checking the confirmation box
-4. Click "Delete Student Record"
-
-### Displaying Student Marks
-1. Go to "Display Marks"
-2. Either view all records or search by specific Student ID
-3. Use the action buttons to Edit or Delete records
-
-### Generating Reports
-1. Go to "Generate Reports"
-2. Select report type:
-   - **Students Above Threshold**: Enter minimum marks
-   - **Students by Subject**: Select subject
-   - **Top Students**: Enter number of top students
-3. Click "Generate Report"
-4. View results with statistics and print option
-
-## 🔧 Technical Features
-
-### Input Validation
-- **Client-side**: JavaScript validation with Bootstrap
-- **Server-side**: Comprehensive validation in servlets
-- **Database constraints**: Primary key and NOT NULL constraints
-
-### Error Handling
-- Try-catch blocks for database operations
-- User-friendly error messages
-- Graceful handling of invalid inputs
-
-### Security Features
-- Prepared statements to prevent SQL injection
-- Input validation
-- Session management
-
-### Responsive Design
-- Bootstrap 5.3 framework
-- Styling with hover effects
-- Print-friendly report layouts
-
-## 🧪 Testing the Application
-
-### Test Cases to Verify:
-
-1. **Add Operations**:
-   - Add valid student records
-   - Try adding duplicate Student IDs (should fail)
-   - Test input validation (empty fields, invalid dates, etc.)
-
-2. **Update Operations**:
-   - Update existing records
-   - Try updating non-existent Student ID
-   - Test field validation
-
-3. **Delete Operations**:
-   - Delete existing records
-   - Try deleting non-existent Student ID
-   - Test confirmation mechanism
-
-4. **Display Operations**:
-   - View all records
-   - Search by valid Student ID
-   - Search by invalid Student ID
-
-5. **Report Generation**:
-   - Generate all three types of reports
-   - Test with different criteria values
-   - Verify statistics calculations
-
-
-
-## 🎓 Outcomes
-
-This project demonstrates:
-- **MVC Architecture**: Clear separation between Model, View, and Controller
-- **Database Integration**: CRUD operations with MySQL
-- **Web Development**: JSP, Servlets, HTML, CSS, JavaScript
-- **Input Validation**: Both client-side and server-side
-- **Report Generation**: Dynamic data analysis and presentation
-- **Professional UI**: Responsive design with Bootstrap
+## ----------------------------------------------------------> THANK_YOU <---------------------------------------------------------- ##
