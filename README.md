@@ -149,9 +149,17 @@ View All Reservations, and Generate Reports — as seen in the UI.
 ### For More Related Images :- [!! All_Reservations_1 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/All_Reservations_1.png)[!! All_Reservations_2 !!](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/All_Reservations_2.png)
 
 ### 🔹 Generate Reports -
+
+### 📅 Reservations in a Date Range -
 ![Reservations in a Date Range](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_4.png)
+
+### 🏡 Rooms Booked Most Frequently -
 ![Rooms Booked Most Frequently](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_5.png)
+
+### 💸 Total Revenue Over a Period -
 ![Total Revenue Over a Period](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_7.png)
+
+### 🅿️ Reservations By Customer Name -
 ![Reservations By Customer Name](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_9.png)
 
 ### For More Related Images :- [!! Report_1 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_1.png)[!! Report_2 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_2.png)[!! Report_3 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_3.png)[!! Report_4 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_4.png)[!! Report_5 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_5.png)[!! Report_6 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_6.png)[!! Report_7 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_7.png)[!! Report_8 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_8.png)[!! Report_9 !!_](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_9.png)
