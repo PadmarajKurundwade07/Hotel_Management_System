@@ -268,4 +268,4 @@ Features a clean, responsive user interface styled with Bootstrap for enhanced u
 
 
 
-## ----------------------------------------------------------> THANK_YOU <---------------------------------------------------------- ##
+## ----------------> THANK_YOU <---------------- ##
