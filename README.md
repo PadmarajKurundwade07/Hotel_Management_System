@@ -123,7 +123,33 @@ http://localhost:8080/HotelManagementSystem/
 This will open your homepage with modules like Add New Reservation, Update Reservation, Cancel Reservation, 
 View All Reservations, and Generate Reports — as seen in the UI.
 
-## 🖼️ Screenshots
+## 📸 Screenshots :
+
+### 🔹 Front Page
+![Front Page](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Front_page.png)
+
+### 🔹 All Reservations
+![All Reservations 1](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/All_Reservations_1.png)
+![All Reservations 2](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/All_Reservations_2.png)
+
+### 🔹 Cancel Reservation
+![Cancel 1](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Cancel_1.png)
+![Cancel 2](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Cancel_2.png)
+![Cancel 3](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Cancel_3.png)
+
+### 🔹 Reports
+![Report 1](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_1.png)
+![Report 2](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_2.png)
+![Report 3](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_3.png)
+![Report 4](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_4.png)
+![Report 5](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_5.png)
+![Report 6](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_6.png)
+![Report 7](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_7.png)
+![Report 8](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Report_8.png)
+
+
+
+
 
 ### 🏠 Home Page
 <img src="screenshots/Homepage.png" alt="Home Page" width="700"/>
