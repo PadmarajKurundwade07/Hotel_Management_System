@@ -131,7 +131,7 @@ View All Reservations, and Generate Reports — as seen in the UI.
 ### 🔹 Add Reservations - 
 ![Add New Reservations](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Reservation_1.png)
 
-[Enter_the_Data](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Reservation_2.png)
+### For More Related Images:- [Enter_the_Data](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/Reservation_2.png)
 
 ### 🔹 All Reservations
 ![All Reservations 1](https://github.com/PadmarajKurundwade07/Hotel_Management_System/blob/main/Screenshots/All_Reservations_1.png)
